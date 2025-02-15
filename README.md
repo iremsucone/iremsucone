@@ -12,6 +12,6 @@ I'm a chemistry student with a interest in physics, currently exploring how codi
 
 
 ### 🧪 Science Quote of the Day  
-[![Science Quote](https://quotes.rest/qod?category=science)](https://theysaidso.com/)  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
