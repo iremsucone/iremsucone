@@ -3,8 +3,7 @@
 I'm a chemistry student with a interest in physics, currently exploring how coding can be used to make scientific knowledge more accessible. My goal is to create useful resources for the chemistry community and contribute to innovation in the field. Still a beginner in coding (learning with the help of ChatGPT), but excited to learn and build along the way.  
 
 **Interests:** Cold atoms, superconductors, quantum mechanics  
-**Learning:** Coding for research & open-source projects  
-**Open to:** Collaborations and new ideas  
+**Learning:** Coding for chemistry community & open-source projects  
 
 ---
 ![Chemistry](https://img.shields.io/badge/-Chemistry-blue?style=flat-square)
