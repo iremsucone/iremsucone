@@ -4,7 +4,7 @@ I'm a chemistry student with a interest in physics, currently exploring how codi
 
 **Interests:** Cold atoms, superconductors, quantum mechanics  
 **Learning:** Coding for chemistry community & open-source projects  
-
+**Work in progress:** NMR Py Reader, Mass Py Analyzer ...
 ---
 ![Chemistry](https://img.shields.io/badge/-Chemistry-blue?style=flat-square)
 ![Physics](https://img.shields.io/badge/-Physics-purple?style=flat-square)
