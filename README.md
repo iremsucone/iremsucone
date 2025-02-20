@@ -1,8 +1,12 @@
-## 👨‍🔬 Chemistry Student | Learning to Code  
+## 👨‍🔬 🔬 Chemistry Student | Exploring the Power of Code
 
-I'm a chemistry student currently exploring how coding can be used to make scientific knowledge more accessible. My goal is to create useful resources for the chemistry community and contribute to innovation in the field. Still a beginner in coding (learning with the help of ChatGPT), but excited to learn and build along the way.  
+I'm a chemistry student currently exploring how coding can make scientific knowledge more accessible. My goal is to create useful tools for the chemistry community and contribute to innovation in the field!
 
-**Interests:** Cold atoms, superconductors, quantum mechanics  
+I started with only beginner-level Python knowledge but decided to learn by actively engaging with AI models like ChatGPT and Blackbox. I believe that the more we adapt to AI-driven scripts, the more we can harness its potential for research and problem-solving. 
+
+Sky is the limit! 🚀
+
+**Interests:** Cold atoms, quantum mechanics  
 **Learning:** Coding for chemistry community & open-source projects  
 
 ---
