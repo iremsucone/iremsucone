@@ -1,8 +1,10 @@
 ## 👨‍🔬 🔬 Chemistry Student | Exploring the Power of Code
 
-I'm a chemistry student learning how coding can help make scientific knowledge more accessible. I want to build tools that are actually useful for the chemistry community and hopefully contribute something meaningful to the field.  
+I'm a chemistry student learning how coding can help make science more accessible. I want to create tools that are actually useful for the chemistry community and maybe even bring new ideas to the field.
 
-I started with just basic Python skills, but instead of waiting until I felt “ready,” I decided to learn by doing—experimenting, making mistakes, and using AI tools like ChatGPT and Blackbox to figure things out. The more we integrate AI into research, the more we can streamline problem-solving and discovery.  
+I started with just basic Python skills, but instead of waiting until I felt “ready,” I decided to learn by trying things out—making mistakes, experimenting, and using AI tools like ChatGPT and Blackbox to help me along the way. The more we use AI in research, the more we can solve problems in new and better ways.
+
+Just taking it one step at a time and seeing where it leads. 
 
 Sky is the limit! 🚀
 
