@@ -8,7 +8,7 @@ Just taking it one step at a time and seeing where it leads.
 
 Sky is the limit! 🚀
 
-**Interests:** Cold atoms, quantum mechanics  
+**Interests:** Cold atoms, superconductors, quantum mechanics  
 **Learning:** Coding for chemistry community & open-source projects  
 
 ---
