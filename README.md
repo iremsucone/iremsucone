@@ -15,7 +15,7 @@ Energy is a state of infinite being! 🚀
 ![Physics](https://img.shields.io/badge/-Physics-purple?style=flat-square)
 ![Quantum Mechanics](https://img.shields.io/badge/-Quantum--Mechanics-black?style=flat-square)
 
-**📖✨ Cosmic Cookbook of The Known Universe ✨📖**
+Cosmic Cookbook
 
 | H  |    |    |    |    |    |    |    |    |    |    |    |    |    |    | He |
 |----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
