@@ -2,10 +2,13 @@
 
 I'm a chemistry student who started this journey with just basic Python skills, learning how coding can make science more accessible. I want to create tools that are useful for the chemistry community and bring new ideas to the field.
 
-Instead of waiting until I felt “ready,” I decided to learn by experimenting with AI tools, which introduced me to programming and helped me along the way. Putting aside the ethical debates around AI, I think we can all agree that time is valuable. The more we integrate AI into research, the better we can solve problems in new and innovative ways.
+Tired of waiting until I felt “ready” and "skilled", I decided to learn by experimenting with AI tools, because why not?  
 
-Energy is a state of infinite being! 🚀
+Remember: Energy is the primal power of existence. It has no beginning, no end, no location and no time. 
 
+Energy is the state of infinite being, expanding universe is the limit! 🚀
+
+01101001 01110010 01100101 01101101 00100000 01110011 01110101 00100000 01100011 01101111 01101110 01100101
 
 **Interests:** Cold atoms, superconductors, quantum mechanics  
 **Learning:** Coding for chemistry community & open-source projects  
