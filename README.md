@@ -1,10 +1,6 @@
 ## 👨‍🔬 🔬 Chemistry Student | Exploring the Power of Code
 
-I'm a chemistry student who started this journey with just basic Python skills, learning how coding can make science more accessible. I want to create tools that are useful for the chemistry community and bring new ideas to the field.
-
-Tired of waiting until I felt “ready” and "skilled", I decided to learn by experimenting with AI tools, because why not?  
-
-Remember: Energy is the primal power of existence. It has no beginning, no end, no location and no time. 
+I'm a chemistry student who started this journey with just basic Python skills, learning how coding can make science more accessible. I want to create tools that are useful for the chemistry community and bring new ideas to the field. I decided to learn by experimenting with AI tools, because why not?  
 
 Energy is the state of infinite being, expanding universe is the limit! 🚀
 
