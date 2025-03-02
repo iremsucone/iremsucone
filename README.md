@@ -1,4 +1,4 @@
-## 👨‍🔬 🔬 Chemistry Student | Exploring the Power of Code
+## 👨‍🔬 🔬 Chemist | Exploring the Power of Code
 
 I'm a chemist who started this journey with just basic Python skills, learning how coding can make science more accessible. I want to create tools that are useful for the chemistry community and bring new ideas to the field. I decided to learn by experimenting with AI tools, because why not?  
 
